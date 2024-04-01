@@ -1,0 +1,6 @@
+!/usr/nin/env bash
+
+whole read line; do
+  #echo $line
+  echo $line | cut -d',' -f1
+done < "../../shared/439539/practice_wc.txt"
