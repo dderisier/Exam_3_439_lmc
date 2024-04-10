@@ -1,3 +1,4 @@
+Created a new pull request for challenge 3 as person #1
 #!usr/bin/env bash 
 
 while read line
