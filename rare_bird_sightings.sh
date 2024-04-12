@@ -1,3 +1,4 @@
+Making another pull request as #1 in challenge 3 
 #!/bin/bash
 
 #making a loop to determine the rare_birds = 1 
